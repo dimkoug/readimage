@@ -1,0 +1,5 @@
+ExifRead==2.1.2
+gpsphoto==2.2.2
+piexif==1.1.2
+Pillow==5.4.1
+pytz==2018.9
